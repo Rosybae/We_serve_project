@@ -3,7 +3,9 @@ This project concerns a company called weserve that outsources customer service 
 The different calls made are recorded in a call log sheet and the extra details are saved in the call details sheet. 
 As a data Engineer, I would understand the dataset and use the tools below to clean and transform the dataset into a suitable warehouse to make it easy for the customer service manager to be able to measure the KPI performance of the agents in order to drive the business forward.
 
-Tools
+
+**
+Tools**
 Pandas
 Python
 Dataset
