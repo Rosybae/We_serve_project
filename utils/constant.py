@@ -1,0 +1,1 @@
+tables = ['all_calls', 'agents','recieved_calls', 'resolved_calls', 'assigned_calls', 'complaints']
